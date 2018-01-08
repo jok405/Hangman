@@ -24,10 +24,11 @@ video {
 	background: rgba(0,0,0,0.3);
 	color: white;
 	padding: 2rem;
-	width: 33%;
-	margin:2rem;
-	float: right;
-	font-size: 1.2rem;
+	width: 38%;
+	margin:auto;
+	margin-top: 90px;
+	float: center;
+	font-size: 1.3rem;
 }
 h1 {
   font-size: 3rem;
