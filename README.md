@@ -7,10 +7,10 @@ Guess the name of the sports car.
 ## Screenshots
 ![Gran Turismo Hangman](/assets/screenshots/porsche.png)
 
-### Winning Scenerio (word is guessed)
+### Winning Scenerio
 ![Win](/assets/screenshots/win.png)
 
-### Losing Scenerio (word not guessed after 10 letters entered)
+### Losing Scenerio 
 ![Loss](/assets/screenshots/loss.png)
 
 Check out the deployed app [here](https://jok405.github.io/Hangman/)!
