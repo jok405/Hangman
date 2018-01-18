@@ -1,4 +1,4 @@
-# Gran Turismo Hangman JavaScript Assignment
+# Gran Turismo Hangman Assignment
 
 An in-browser hangman game featuring dynamically updated HTML and powered by javaScript code.
 
