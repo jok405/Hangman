@@ -4,11 +4,11 @@ An in-browser hangman game featuring dynamically updated HTML and powered by jav
 Guess the name of the sports car.
 Check out the deployed app [here](https://jok405.github.io/Hangman/)!
 
-## Screenshots
+## Screenshots:
 ![Gran Turismo Hangman](/assets/screenshots/porsche.png)
 
-### Winning Scenerio
+### Winning Scenerio:
 ![Win](/assets/screenshots/win.png)
 
-### Losing Scenerio 
+### Losing Scenerio: 
 ![Loss](/assets/screenshots/loss.png)
